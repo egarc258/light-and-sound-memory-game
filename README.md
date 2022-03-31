@@ -4,7 +4,7 @@
 
 Submitted by: Edison Garcia
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/east-malachite-birthday?path=README.md%3A1%3A0
 
@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[]https://recordit.co/DVr5o5EAJd   
-[]https://recordit.co/m8dIQUgfl2
-[]https://recordit.co/O7poLCbsN8
+[] https://recordit.co/DVr5o5EAJd   
+[] https://recordit.co/m8dIQUgfl2
+[] https://recordit.co/O7poLCbsN8
 
 ## Reflection Questions
 
